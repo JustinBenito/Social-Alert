@@ -1,6 +1,6 @@
-BOT_API_KEY="6013654267:AAFXkCr9k4V_vg69ISYi0hZddLuz0w0q1VE";
-MY_CHANNEL_ID="-942368642";
-MY_MESSAGE_TEXT="Your Son is avoiding work and has entered Social Media now";
+BOT_API_KEY="Your BOT API ";
+MY_CHANNEL_ID="YOUR GROUP CHAT";
+MY_MESSAGE_TEXT="Your MESSAGE";
 
 setInterval(function () {
     chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
